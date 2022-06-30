@@ -1,0 +1,15 @@
+
+#nav-item-hover:hover {
+    border-radius: 5px;
+    color: #fff;
+    background-color: rgba(126, 193, 224, 0.337);
+
+}
+
+#nav-item-hover {
+    width: 300px;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid rgb(16, 40, 136);
+}
